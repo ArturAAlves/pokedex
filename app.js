@@ -81,9 +81,9 @@ fetchPokemon();
 
   
 
-teste.addEventListener("click", ()=>{
-window.alert("Hello")
-})
+// teste.addEventListener("click", ()=>{
+// window.alert("Hello")
+// })
 
 
 
