@@ -81,7 +81,6 @@ function createPokemonCard(pokemon) {
             <p><strong>Atack</strong>: ${poke_attack}</p>
             <p><strong>Defense</strong>: ${poke_defense}</p>
             <p><strong>Speed</strong>: ${poke_speed}</p>
-             . . . . .
             <P><strong>Main Habilitie</strong></P>
             <p>${poke_habilities1}</p>
            
