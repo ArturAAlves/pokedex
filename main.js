@@ -94,7 +94,6 @@ function createPokemonCard(pokemon) {
                 <div class="info">
                 <span class="number">#${pokemon.id.toString().padStart(3, "0")} </span>
                 <h3 class="name"> ${name}</h3>
-                        
                 <h5 class"tipo"> <strong>Type</strong>: ${poke_typex}</h5>
             </div>
         </div>
