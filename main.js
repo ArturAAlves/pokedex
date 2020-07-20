@@ -1,3 +1,4 @@
+
 const poke_contanier = document.getElementById("poke_container");
 const pokemon_number = 150;
 const colors = {
@@ -127,4 +128,3 @@ function myFunction() {
             pokemon[i].style.display = "none";
         }
     }
-}
