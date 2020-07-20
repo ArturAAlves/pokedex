@@ -128,3 +128,4 @@ function myFunction() {
             pokemon[i].style.display = "none";
         }
     }
+}
