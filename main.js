@@ -127,4 +127,4 @@ function myFunction() {
         } else {
             pokemon[i].style.display = "none";
         }
-    }
+    }}
